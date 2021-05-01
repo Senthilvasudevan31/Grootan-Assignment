@@ -1,3 +1,5 @@
+I have used papaparser package to access the data from the uploading csv file of any size.
+
 Papa Parse is the fastest in-browser CSV (or delimited text) parser for JavaScript. It is reliable and correct according to RFC 4180, and it comes with these features:
 
 Easy to use
